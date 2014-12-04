@@ -1,14 +1,14 @@
-<widget id="com.WidgetCorp.WidgetApp" version="0.3.1" xmlns="http://www.w3.org/ns/widgets">
-  <name>WidgetApp</name>
+<widget id="com.parseapp.mama-story" version="0.1.0" xmlns="http://www.w3.org/ns/widgets">
+  <name>MamaStory</name>
   <description>
-    An sample Apache Cordova + Backbone application.
+    妈妈讲自己的故事
   </description>
-  <author email="mike@mcarter.me" href="http://mcarter.me">
-    WidgetCorp team
+  <author email="halton.huo@intel.com" href="http://mama-story.parseapp.com">
+    Halton Huo
   </author>
   <content src="cordova.html" />
   <access origin="*" />
-  <preference name="Fullscreen" value="false" />
+  <preference name="Fullscreen" value="true" />
   <preference name="DisallowOverscroll" value="true" />
   <preference name="webviewbounce" value="false" />
   <preference name="Orientation" value="portrait" />
